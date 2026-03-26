@@ -62,3 +62,6 @@ double sqcs(double r, double a)
 {
 	return (M_PI * r * r * a) / 360.;
 }
+
+//Рау Михаил 
+
